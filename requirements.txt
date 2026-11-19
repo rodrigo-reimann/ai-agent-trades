@@ -1,0 +1,5 @@
+# M1
+python-dotenv>=1.0
+tzdata>=2024.1        # timezone data (needed on Windows)
+pytest>=8.0
+# Coming in later milestones: fastapi, uvicorn, jinja2, anthropic, apscheduler, twilio, google-api-python-client
